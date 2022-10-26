@@ -23,15 +23,15 @@
 
 **圆形**：柔和 
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-ITdJSY8X-1666800967887)(https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/Circle.jpg?raw=true)]
+![Circle](https://img-blog.csdnimg.cn/img_convert/96f46fd0b7d7f3db6472ae11b517afe1.jpeg)
 
 **矩形**：稳定
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-0eBQpWEE-1666800967889)(https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/Rectangle.jpg?raw=true)]
+![Rectangle](https://img-blog.csdnimg.cn/img_convert/ec19111eae60f3959f1fd28de59d6ca6.jpeg)
 
 **三角形**：危险
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-mPVSJwSy-1666800967889)(https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/Triangle.jpg?raw=true)]
+![Triangle](https://img-blog.csdnimg.cn/img_convert/0b5ceb7e16500632dd7ee828a0e9e5bc.jpeg)
 
 不同的**形状**所表现的**功能**是不一样的，不同的形状带给人的感受也是不一样的，然后我们就可以用一些基础形状来搭建我们复杂的各种物体了。
 
@@ -41,7 +41,7 @@
 
 药水瓶有瓶底，瓶身，有个管口，有个软木塞，我们可以把各自的部位抽象成对应的形状，方便我们后续的工作。
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-lLaXQysZ-1666800967890)(https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/shapes.png?raw=true)]
+![Shapes](https://img-blog.csdnimg.cn/img_convert/b434ffd23af1ed472ebc116338707cfb.png)
 
 当然后续我们可以修正一下形状，调整一下位置，让其看起来更像一个药水瓶。然后填充对应的颜色，补充对应的细节。
 
@@ -55,7 +55,7 @@
 
 为了确保我们的结构足够的准确，看着自然，我们要回到现实中或者给定的参考图中的各种高度比，长度比，按照这个比例进行头脑中的建模。很多时候看着**不像**的问题也可能是比例没有把控好。
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-M1W40ShP-1666800967890)(https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/HumanRatio.jpg?raw=true)]
+![Human Ratio](https://img-blog.csdnimg.cn/img_convert/1a7476e5d670f9425c9613d4de98dce0.jpeg)
 
 ## 透视
 
@@ -67,17 +67,17 @@
 
 这里专门把线条抓出来讲，这里的线条不仅仅是你看到的有些像素画外面的outline，也包括没有outline的一些图块出来的像素画，因为像素画的限制性，每一个像素都非常重要，这里简单谈几个让像素画线条表现的更自然的几个案例。
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-MaBQEQur-1666800967891)(https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/jaggle.png?raw=true)]
+![Jagged](https://img-blog.csdnimg.cn/img_convert/098337cd0e2daecb55ca96b66b4cbf78.png)
 
 一般来说，我们叫这种情况**Jagged**，这样的线条，看上去并不会很自然，实际上看上去会很不舒适，为了解决这种问题，我们可以选择一开始的时候就选择aseprite的**完美像素（Pixel-Perfect）**，或者手动修正。
 
 具体来说是每次落差的像素格子要徐徐递增徐徐递减，不能一下子落差太大。
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-4xHvUXBh-1666800967892)(https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/WhatJagged.png?raw=true)]
+![WhatJagged](https://img-blog.csdnimg.cn/img_convert/655dc9ce97ea9e1eb60ce5fc88de6fce.png)
 
 解决方法就是让段与段之间的差不要那么大，尽可能平缓一些。
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-XzGyHiAZ-1666800967892)(https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/SovleJagged.png?raw=true)]
+![Solvejagged](https://img-blog.csdnimg.cn/img_convert/90d796459aa2f509cf36beb5ffdd7a0e.png)
 
 顺便提醒一下，有时候尺寸过小弯曲的线条画不下可以通过改变一些饱和度明度之类的值造成视觉上的一种误差以为有弯曲实际上是两个像素点，但是看自己的像素画风格，少颜色风格的那没有必要
 
@@ -91,15 +91,15 @@ HSB色盘是个很好的颜色模式，大家应该也都知道RGB色盘，但�
 
 这是个人自己做的调色盘。
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-KPmY48Uu-1666800967893)(https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/Palette.png?raw=true)]
+![Palette](https://img-blog.csdnimg.cn/img_convert/0013242f26fa667bf0e3c1fe1f36acfa.png)
 
 关于颜色我还有一些要说的，大家可以试试颜色比较少的那种呈现形式，一个游戏里面只有几种颜色，这边有几种风格的游戏感兴趣的可以看看，[Downwell](https://store.steampowered.com/app/360740/Downwell/), [Apple Slash](https://store.steampowered.com/app/1127850/Apple_Slash/), [Red Death](https://store.steampowered.com/app/591560/Red_Death)
 
-![Downwell](https://img-blog.csdnimg.cn/img_convert/e38ab25ea7c713e712a56d1759fb155b.jpeg)
+![Downwell](https://img-blog.csdnimg.cn/img_convert/06054bcc5ec21ac4d818d3be2366a5f0.jpeg)
 
-![Apple Slash](https://img-blog.csdnimg.cn/img_convert/5915be429c7607c766e6afd7204007e1.jpeg)
+![Apple Slash](https://img-blog.csdnimg.cn/img_convert/689a443c77e3554478d539c2c4b502b7.jpeg)
 
-![Red Death](https://img-blog.csdnimg.cn/img_convert/fd2bcc726ea37d9fdb76d0a63a34e4c2.jpeg)
+![Red Death](https://img-blog.csdnimg.cn/img_convert/7ba4aca3c2f7ea6b09ada5e72c0261e9.jpeg)
 
 - - -
 
@@ -122,7 +122,7 @@ HSB色盘是个很好的颜色模式，大家应该也都知道RGB色盘，但�
 
 这里有个推荐的游戏，[FAITH](https://store.steampowered.com/app/1179080/FAITH_The_Unholy_Trinity/)，有点放私货的意味了。
 
-![FAITH](https://img-blog.csdnimg.cn/img_convert/02be08852c2111394b3ac80ed5f2ba69.jpeg)
+![FAITH](https://img-blog.csdnimg.cn/img_convert/ec41c771c4eb82df2274981cb345aafa.jpeg)
 
 这是个恐怖游戏，画面雅达利风格，不过不是全部的雅达利，很多地方还有许多动画CG，实现起来应该不难，但是非常的丝滑。
 
@@ -134,11 +134,11 @@ HSB色盘是个很好的颜色模式，大家应该也都知道RGB色盘，但�
 
 这边照样上游戏，[TowerClimb](https://store.steampowered.com/app/396640/TowerClimb/)，这个游戏是我最喜欢的roguelite（全是私货），讲的是A man climb with hope，玩这个游戏的朋友特别喜欢拿Spelunky类比，因为这个游戏和Spelunky的相似度还是挺高的，不过前提说一下，玩法还是完全不一致的，Spelunky2和TowerClimb我都很喜欢，我都是这两个游戏的粉丝。这个游戏精细的地方体现在像素动画，shader，特别是音乐。
 
-![TowerClimb](https://img-blog.csdnimg.cn/img_convert/f4d2d5d85f05432c94987115648cef2a.jpeg)
+![TowerClimb](https://img-blog.csdnimg.cn/img_convert/a0591f2168f5c9f7f1c51ce7a2e0931e.jpeg)
 
 这个游戏是别人推荐给我的，还没买，但是也是这种风格。[Environmental Station Alpha](https://store.steampowered.com/app/350070/Environmental_Station_Alpha/)，是一个类银河恶魔城。
 
-![Environmental Station Alpha](https://img-blog.csdnimg.cn/img_convert/e7cef7507bf03f9fd4c3758df1d4f7e1.jpeg)
+![Environmental Station Alpha](https://img-blog.csdnimg.cn/img_convert/439fb008eb9eec1fc2f03244b1032169.jpeg)
 
 ### ISO
 
@@ -146,7 +146,7 @@ HSB色盘是个很好的颜色模式，大家应该也都知道RGB色盘，但�
 
 ISO是Isometric的简称，在ISO的世界里遵循平行透视的原则，因此也不会存在消失点，这方面的游戏我玩的少，上一个老游戏，[Game Dev Story](https://store.steampowered.com/app/1847240/_Game_Dev_Story/)。
 
-![Game Dev Story](https://img-blog.csdnimg.cn/img_convert/aac32dc255f84ae1dc1f1bb3d2288e6b.jpeg)
+![Game Dev Story](https://img-blog.csdnimg.cn/img_convert/8b32281b65af6d4dfbb866ed1f636dc2.jpeg)
 
 ### ASCII
 
@@ -158,9 +158,9 @@ ISO是Isometric的简称，在ISO的世界里遵循平行透视的原则，因�
 
 照例上图，[Nethack](http://www.nethack.org/)
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-wTEAeVbw-1666800967897)(https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/Nethack.png?raw=true)]
+![Nethack1](https://img-blog.csdnimg.cn/img_convert/5c4a9a80ab648a9d8cb39081b140480f.png)
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-w20DfWGJ-1666800967898)(https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/NethackSting.jpg?raw=true)]
+![Nethack2](https://img-blog.csdnimg.cn/img_convert/fd75162fe149cdd840e17c831f7aa053.jpeg)
 
 ## 便携工具
 
@@ -168,25 +168,25 @@ ISO是Isometric的简称，在ISO的世界里遵循平行透视的原则，因�
 
 如果有的时候位置不太对，可以直接框起来然后移动一下位置，或者有的时候需要某一部位整体往某个方向移动几个像素，这个时候选择框就派上用场了。
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-cPyENY82-1666800967898)(https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/%E9%80%89%E6%8B%A9%E6%A1%86.gif?raw=true)]
+![选择框](https://img-blog.csdnimg.cn/img_convert/dc01b72e0ad0611533c2f340175b2e31.gif)
 
 ### Jumble Tool
 
 Aseprite里面的一个工具，大概是个画笔，类似于模糊工具，但是其作用是发生在像素画上的，它会将笔刷内的像素位置错排，造成一种很神奇的效果。
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-tiDW0CqS-1666800967899)(https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/Jumble%20tool.gif?raw=true)]
+![Jumble Tool](https://img-blog.csdnimg.cn/img_convert/e77f12e1dfa6fad57605528c65975a58.gif)
 
 ### 镜像工具
 
 用来画一些对称的图形比较方便
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-RGiBjQVm-1666800967900)(https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/%E9%95%9C%E5%83%8F%E5%B7%A5%E5%85%B7.gif?raw=true)]
+![镜像工具](https://img-blog.csdnimg.cn/img_convert/d85efd5c0c39922f254c9b82a6d61b85.gif)
 
 ### 重复tiles
 
 可以轻松画出无缝贴图
 
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-xt28keh3-1666800967900)(https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E6%B8%B8%E6%88%8F%E7%94%A8%E7%AE%80%E5%8D%95%E5%83%8F%E7%B4%A0%E7%94%BB%E7%B4%A0%E6%9D%90%E7%9A%84%E7%BB%98%E5%88%B6/Tiles.gif?raw=true)]
+![重复tiles](https://img-blog.csdnimg.cn/img_convert/742abdcc38122dcc7ef1c68d73ba7882.gif)
 
 当然，此外还有很多小工具我们可以拿去用的，可以自己多多探索一下。
 
@@ -221,7 +221,10 @@ Shader的世界非常好玩，主要分**片元着色器**和**顶点着色器**
 
 希望你喜欢本期内容！
 
+推荐从[Github](https://github.com/Feishiko/PersonalBlog/tree/main)这边看本人的博客以获得最佳体验
+
 个人itch.io链接[点这里](https://feishiko.itch.io/)
+
 个人Twitter链接[点这里](https://twitter.com/FeishikoMonster)
 
 2022/10/27
