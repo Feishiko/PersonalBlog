@@ -14,13 +14,13 @@
 
 为了防止剧透，这里就放大家应该都看过的，第三章宣传片里面约翰神父手持圣经祈祷的画面。
 
-![祈祷(大嘘)](https://pic1.imgdb.cn/item/635bc7a216f2c2beb1599b1d.gif)
+![祈祷(大嘘)](https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/FAITH%E7%9A%84%E8%BF%87%E5%9C%BACG%E6%98%AF%E6%80%8E%E4%B9%88%E5%88%B6%E4%BD%9C%E7%9A%84/gif.gif?raw=true)
 
 没错！这是dev本人自己录下来的，然后再描边，然后就是你在游戏里看到的约翰神父！
 
 让我们再来看看游戏中的这段CG是怎么样的：
 
-![John](https://pic1.imgdb.cn/item/635be7d916f2c2beb1892487.gif)
+![John](https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/FAITH%E7%9A%84%E8%BF%87%E5%9C%BACG%E6%98%AF%E6%80%8E%E4%B9%88%E5%88%B6%E4%BD%9C%E7%9A%84/John.gif?raw=true)
 
 这种技术叫做**转描**。
 
