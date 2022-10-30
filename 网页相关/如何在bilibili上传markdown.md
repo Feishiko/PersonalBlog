@@ -14,7 +14,7 @@
 
 如图所示
 
-![界面](https://pic1.imgdb.cn/item/635e8f8f16f2c2beb1ee8334.png)
+![界面](https://github.com/Feishiko/PersonalBlog/blob/main/%E5%9B%BE%E7%89%87/%E5%A6%82%E4%BD%95%E5%9C%A8Bilibili%E4%B8%8A%E4%BC%A0markdown/%E7%95%8C%E9%9D%A2.png?raw=true)
 
 接着按**F12**，打开**开发者工具**，打不开就手动旁边打开。
 
